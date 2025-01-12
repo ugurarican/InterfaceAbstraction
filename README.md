@@ -34,5 +34,5 @@
 ![Program](https://github.com/ugurarican/InterfaceAbstraction/blob/master/Program.png)
 
 ### Console  
-- Uygulamamızın console çıktısı.
+- Uygulamamızın console çıktısı.  
 ![Display](https://github.com/ugurarican/InterfaceAbstraction/blob/master/Display.png)
